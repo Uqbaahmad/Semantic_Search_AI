@@ -5,6 +5,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 pinecone.init(api_key="a88f41cf-3264-48d8-8a04-953f06214d55", environment = "us-central1-gcp")
 index = pinecone.Index("semantic-search-ai")
 
+
 def addData(corpusData,url):
     id = id = index.describe_index_stats()['total_vector_count']
     for i in range(len(corpusData)):
