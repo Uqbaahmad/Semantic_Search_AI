@@ -15,5 +15,6 @@ In this project , I used the quora dataset to buid high-performance vector searc
 
 go through the project via this link - [Vector_database.ipynb](https://github.com/Uqbaahmad/Semantic_Search_AI/blob/main/Semantic%20Search/vector_database.ipynb)
 <br/>
+<br/>
 Pinecone makes it easy to build high-performance vector search applications.<br/>
 It's managed, cloud-native vector database with a simple API and no infrastructure hassles.
