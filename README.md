@@ -10,7 +10,7 @@ In this project, I show how to revolutionize the way you search by combining the
 
 Go through the project via this link - [Search.ipynb](https://github.com/Uqbaahmad/Semantic_Search_AI/blob/main/Semantic%20Search/search.ipynb)
 
-## PROJECT Part -1 
+## PROJECT Part -2 
 In this project , I used the Quora dataset to build a high-performance vector search application using vector databases and Pinecone.
 
 go through the project via this link - [Vector_database.ipynb](https://github.com/Uqbaahmad/Semantic_Search_AI/blob/main/Semantic%20Search/vector_database.ipynb)
